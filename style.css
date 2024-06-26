@@ -14,7 +14,7 @@ body {
 
 header {
     background: #0c6319;
-    color: #ffffff;
+    color: #000000;
     padding: 1rem;
     text-align: center;
 }
@@ -29,7 +29,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #2f8835;
+    color: #000000;
     text-decoration: none;
 }
 
