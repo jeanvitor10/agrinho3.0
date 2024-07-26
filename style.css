@@ -1,4 +1,5 @@
-/* Reset de estilos */
+
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');/* Reset de estilos */
 * {
     margin: 0;
     padding: 0;
@@ -7,7 +8,7 @@
 
 /* Estilos gerais */
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Lilita One"  ;
     line-height: 1.6;
     background-color: #24c42f;
     margin: 0;
